@@ -1,1 +1,4 @@
 # odin-recipes
+15.11.2021
+Today's challenge via The Odin Project is to creat a main index page that will link to a series of a few recipes. While it won't look very user friendly, I am assured that in future lessons this is what CSS (and eventually JS) will be there for: to spruce things up. In the meantime, let's get started on making a webpage!
+Personally, I hope to really strengthen not just my understanding of HTML, but most importantly, let the commands for committing to git become muscle memory. Making a HTML boilerplate is easy enough, but I really want to focus on the aspect of making sure that my commits are not only clean, but the process is straightforward.
